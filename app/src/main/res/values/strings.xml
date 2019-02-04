@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TOCHKA TEST</string>
+
+    <string name="error.title">Ошибка</string>
+    <string name="error.network">Приложению нужен доступ к интернету. Проверьте подключение и попробуйте снова.</string>
+    <string name="error.unknown">Опаньки, что-то пошло не так, но мы уже работаем над этим.</string>
+    <string name="empty" />
+
+    <string name="loading">Загрузка…</string>
+    <string name="button.close">Закрыть</string>
+    <string name="button.ok">Ок</string>
+    <string name="button.cancel">Отмена</string>
+    <string name="button.reload">Обновить</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="vk">VK</string>
+
+</resources>
